@@ -1,0 +1,1043 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="title" content="浪漫爱_正版音乐免费在线试听下载_酷我在线音乐播放器酷我在线音乐播放器" />
+<meta name="keywords" content="浪漫爱,浪漫爱 江语晨,浪漫爱试听,浪漫爱MP3下载，浪漫爱歌词,在线音乐播放器,酷我音乐" />
+<meta name="description" content="浪漫爱在线试听，江语晨下载，查看江语晨歌词，江语晨的其他歌曲。点击下载按钮选择要下载的江语晨歌曲文件类型：APE MP3 WMA -酷我在线音乐播放器，百万歌曲免费在线试听，正版音乐免费下载，最新最全的歌曲搜索，歌词，试听和下载服务，即时更新的全球音乐排行榜，播放更流畅，音质更完美。" />
+<title>浪漫爱_正版音乐免费在线试听下载_酷我在线音乐播放器酷我音乐播放器</title> 
+<!-- <link rel="stylesheet" type="text/css" href="http://css.kuwo.cn/webplayer2013/base2.css?20130625021"/> -->
+<link rel="stylesheet" type="text/css" href="http://player.kuwo.cn/webmusic/webplay/base2.css?20130625021"/>
+<link rel="stylesheet" type="text/css" href="http://css.kuwo.cn/www/loginbox2012.css?200afds212.css"/>
+
+
+<script type="text/javascript" src="http://js.kuwo.cn/webplayer2013/jquery-1.8.3.min.js"></script> 
+
+<!-- <script type="text/javascript" src="http://js.kuwo.cn/webplayer2013/play1.js?201503191"></script> --> 
+<script type="text/javascript" src="http://js.kuwo.cn/webplayer2013/KW_DqPlayer_v2.js?20130624"></script>
+<script type="text/javascript" src="http://js.kuwo.cn/webplayer2013/KW_WebPlayer_v2.js?20130624"></script> 
+<script type="text/javascript" src="http://js.kuwo.cn/cookie.js?1.js"></script>
+<script type="text/javascript" src="http://player.kuwo.cn/webmusic/webplay/play1.js?t=43144355444"></script>
+
+<script type="text/javascript">
+	document.domain = 'kuwo.cn';
+	function killerr() {
+		return true;
+	}
+	window.onerror = killerr;
+	//iframe刷新 
+	function IframeRefresh(w){
+		window.frames['iframepage'].location.href = "http://topmusic.kuwo.cn/today_recommend/music/zhaoge_summer_hz_webplayer_jiaodian.htm?456564";
+	}
+	var wbarr =[{'name':'浪漫爱','art':'江语晨','rid':'MUSIC_449247','pay':'0','dur':'1'}];
+	function getJrRids() {
+		var str1 = "";
+		for (i = 0; i < wbarr.length; i++) {
+			if (i > 0) {
+				str1 = str1 + ",";
+			}
+			str1 = str1 + wbarr[i].rid;
+		}
+		return str1;
+	}
+	//焦点图回调
+	function test(urlu){//内部iframe
+		$("#indexpage").hide();
+		window.frames['itempage'].location.href = urlu;
+		$("#itempage").show(20);
+	}
+	function test1(urlu){//外部弹出
+		window.open(urlu);
+	}
+	var url = window.location.href;
+	
+		if(wbarr!=null&&wbarr.rid!=null&&'|12345|990683|257097|3432038|1459780|1459781|3463463|3463467|3463468|3463469|3463470|3463471|3463472|3463473|3463474|3463453|3463454|3463455|3463456|3463457|3463458|3463459|3463460|3463461|3463462|3463464|3463465|3463466|3434472|3434473|3434474|3434475|3434476|3434477|3434478|3434479|3434480|3434469|3434470|3434471|450698|2994306|228296|2923292|476825|3632471|3632456|3632486|3632459|3632460|3632487|3632461|3632462|3632463|3632452|3632464|3632465|3632453|3632454|3632466|3632467|3632468|3632469|3632470|3632455|3632472|3632473|3632474|3632475|3632476|3632477|3632478|3632479|3632480|3632481|3632482|3632457|3632483|3632484|3632458|3632485|3650807|3647863|494818|494819|494820|874338|874337|874336|874335|874334|874339|2371785|3523648|894528|980024|3244062|643518|886842|1094009|1029052|3222795|2293675|2314045|664922|1064741|2288232|128711|1029061|2314023|3042652|3395505|2101267|905487|950075|950095|1811077|2210113|2210138|2263219|3029855|3432037|1459782|2889951|2486618|625661|1051105|3016022|3285211|4065040|118862|1116794|211655|1067924|307653|1185661|3407454|2685120|2684982|652722|2276632|2684963|2685123|2685029|2685098|2778993|4233477|4383191|4263159|58912|58927|2768592|4293482|2072920|4355830|4235858|4130718|395959|4418157|4433971|4416983|4461601|4493610|4431031|4436228|4445133|4484180|4139253|4419373|4317685|4489310|4583129|4516938|3627780|4855476|4825638|4855477|4855478|4855479|4855480|4855481|4825637|4855482|4825600|4845422|4821497|4825344|3430742|4219643|4728839|4186471|4749526|4777793|4792508|4769281|4366738|4225602|4280260|4249727|4128952|4786839|4164463|4768772|4391672|4181074|4378113|4772412|4402655|4777050|4371395|4310894|4321290|4700250|4233462|4219576|4390376|4634631|4174019|4302006|4390395|4258696|4265430|4313657|4394969|4272424|4312581|4251892|4317434|4769643|4436647|4212578|4178357|4164625|4347859|4648328|4449140|4515728|4497347|4423742|3018609|695001|3262305|4751235|4562222|4495311|3264159|4649333|4241556|4776945|4526487|464611|4412154|3332281|4533881|4734000|4782474|4227667|4317390|4649104|4593380|4368666|4583110|4601444|3491018|4794431|4764275|3573162|4334583|4318583|4309613|4632188|4497897|4258404|4350019|4377621|4751268|4781334|4786673|4724931|4513406|4542998|4615152|4257323|3040764|3044785|3040809|4851325|4858877|4503857|4473775|4510381|4429957|4462915|177376|3184263|177383|177417|177362|2761192|4655854|4621358|4499928|4542283|4600250|4489901|4676819|4464411|4220976|2906878|2535677|4422076|4427074|4505432|2948912|4509962|4542415|4846500|4476752|4494485|5243506|3283765|5543911|4703529|5036151|4664368|4645283|4630521|5605935|4494766|4510880|4655616|4659172|4647505|4570138|4535640|4302196|4440044|4472128|4440694|4425642|4583075|4582518|4521652|4583603|4417480|4499722|3000470|5686584|4137475|4665947|5700314|4472243|4524431|5991841|4171652|5716211|5798120|6117980|6106655|6112067|5857323|4890170|6129089|5026388|6128757|6128756|6136015|4402142|4370886|6178629|6138452|5899111|5836946|5864694|6176055|6176060|5825597|6148000|6121232|6176056|6176057|6175585|6176058|6176059|6176054|6186418|6186359|6186364|6186357|6186360|6186358|6186362|6186363|6186361|5837540|5844495|4265102|6157051|6143959|6142583|6187579|6178634|6179083|4708397|5803207|5732761|5658268|5625819|6214437|4526596|4643656|4378350|3288137|4418838|4570091|4448483|6015379|5706311|4661227|5710916|4602551|4441942|4169997|5782659|4450619|5712365|4424548|6018236|4466322|5628989|6051900|5958419|5957936|6002094|4504010|4708499|4568981|4447323|4596615|4528399|4166430|4441570|4941459|5601067|2984429|272068|5127462|5778967|5417053|5710444|511837|509554|5417050|506653|6109293|6232512|711903|5964234|5944355|5658140|6078352|6288579|4194037|4428088|4535047|2967300|4610899|2967543|4264831|4384536|4432148|4581888|4785522|4477813|512305|6027100|5517438|3016020|316147|382779|382780|6354963|6354964|6354965|6354966|6354967|6354968|6354969|6354970|6354971|6354961|6354962|446572|4698603|1043433|4561513|4562235|5033660|3257792|4170733|4440330|4504165|4508065|4508234|4564959|4609436|4647698|4665314|4669043|4673763|6339349|5602112|4378134|4269853|4193554|6070247|765434|6432484|4644061|6438554|6438548|6438552|6438553|6438546|6438550|4889498|6438547|5098655|4889444|6438549|4889497|4889443|6438551|4994824|5127211|5192821|5207980|2997978|4205044|4276672|110670|4460624|4273175|178079|5005167|5005189|4942809|4872054|4547770|5373722|4413735|4498959|6449382|6406943|6404243|6403443|4473220|4943799|538759|4872057|5005187|4872056|5099744|4872051|5101441|5099740|4872052|5099734|6486263|4629365|4422308|3756559|6470421|4871730|5039579|5119996|4512146|4576318|5052247|5170860|5678069|6041572|6041571|6041570|5075974|325543|1455656|1455657|1455658|1455661|1455655|1455662|1455654|1455663|1455659|1455660|6690728|6690729|6690730|6690731|6690732|6690733|6690722|6690723|6690724|6690725|6690726|6649389|6666418|6669196|6613420|6685648|6697118|6697119|6697120|6697121|6697122|6697123|6697124|6697125|6697111|6697112|6697113|6697114|6613449|5300206|5952778|566021|370908|5084786|4942537|1134663|2266554|5060236|5147326|6542130|1970408|4506141|131149|131148|4568239|4164441|4561700|4432750|4610057|6050472|4601628|5686192|4872049|4672239|6539969|104312|4357880|331082|5676856|522060|6832996|1043450|4437235|5628644|4570368|7215961||6770957|6770958|6770959|'.indexOf('|' + wbarr.rid.replace(/MUSIC_/,'') + '|')>=0){
+			window.location='http://www.kuwo.cn';
+		}
+		
+	if(url.indexOf("1665182")>0 ||url.indexOf("3362685")>0|| url.indexOf("658156")>0 || url.indexOf("257097")>0 || url.indexOf("1851530")>0 || url.indexOf("2301226")>0 || url.indexOf("276478")>0 || url.indexOf("257097")>0 || url.indexOf("224903")>0 || url.indexOf("338935")>0 || url.indexOf("338936")>0
+			||url.indexOf("1378565")>0||url.indexOf("4472148")>0||url.indexOf("307316")>0||url.indexOf("1665268")>0||url.indexOf("1665193")>0||url.indexOf("1665167")>0||url.indexOf("147664")>0||url.indexOf("1378565")>0||url.indexOf("146400")>0||url.indexOf("307316")>0||url.indexOf("320878")>0||url.indexOf("2275989")>0||url.indexOf("145524")>0||url.indexOf("327454")>0||url.indexOf("145544")>0||url.indexOf("2696968")>0||url.indexOf("3285211")>0){
+		window.location.href="http://www.kuwo.cn";
+	}
+	var mid = getJrRids();
+	var url1 = document.referrer;
+	if (url1.indexOf('so.com') > -1 || url.indexOf("from=360") > -1)
+	{
+		//window.location = 'http://player.kuwo.cn/webmusic/musicweb/play.jsp?mid='+ mid;
+	}
+	function ksingtan(type){
+	    if (type == 1) {
+	        jQuery("#ksingtan").show();
+	        jQuery("#bkblack").show();
+	    } else if (type == 0) {
+	        jQuery("#ksingtan").hide();
+	        jQuery("#bkblack").hide();
+	    }
+	}
+</script>
+ <style type="text/css">
+ body {
+ behavior: url("csshover.htc");
+ zoom:1;
+ scrollbar-face-color: #dde; 
+ scrollbar-shadow-color: #fff; 
+ scrollbar-highlight-color: #fff; 
+ scrollbar-3dlight-color: #fff; 
+ scrollbar-darkshadow-color: #FFFFFF;
+ scrollbar-track-color: #FFFFFF;
+ scrollbar-arrow-color: #77C9EF";
+}
+.listicon a.icon_kg{background: url(http://image.kuwo.cn/www2014/ksingtan/mic1_1128.gif) no-repeat;}
+.havebg .listicon a.icon_kg{background: url(http://image.kuwo.cn/www2014/ksingtan/mic2_1128.gif) no-repeat;}
+.jiu_playleft ul .listicon, .jiu_playright ul .listicon{ width:85px;}
+.songer{ width:50px;}
+.play_kge{background: url(http://image.kuwo.cn/www2014/ksingtan/mic_button.gif) no-repeat;width:37px;height:28px;}
+.c_bg{width:100%;height:100%;opacity:0.5;filter:alpha(opacity:50);position:fixed;_position:fixed;top:0;left:0;z-index:1000;background:#000;_top: expression(documentElement.scrollTop + documentElement.clientHeight-this.offsetHeight);overflow: visible;display:none}
+ .showwrap1125{ position: fixed; top: 50%; left: 50%; width: 841px; height: 501px; margin: -250px 0 0 -420px;z-index:9999}
+ .showbox1125{ width: 841px; height: 480px; background: url("http://image.kuwo.cn/www2014/ksingtan/show1126.png") no-repeat;margin-top:21px}
+ .close1125{ position: absolute; top: 0px; right: 31px; width: 41px; height: 41px; background: url("http://image.kuwo.cn/www2014/ksingtan/close1125.png") no-repeat;}
+ .down1125{ position: absolute; top: 17px; right: 37px; width: 176px; height: 95px;}
+ .showbox1125 img{ display: block; position: absolute; top: 34px; right: 105px;}
+ .itemUl_act .more_icon{background: url(http://image.kuwo.cn/webplayer2013/img/btn.png) no-repeat;background-position: -11px -265px;}
+ .more_icon {
+    background: url(http://image.kuwo.cn/webplayer2013/img/btn.png) no-repeat;
+    background-position: -11px -43px;
+}
+/* 付费弹窗样式开始 */
+#pop {width:100%;height:100%;position: fixed;left:0;top:0;z-index:9;background:#000;filter:alpha(opacity=50);-moz-opacity:0.5;-khtml-opacity:0.5;opacity: 0.5;}
+.pop {width: 385px;height: 173px;background:#fff;position:absolute;z-index:10;text-align: center;}
+.pop .popTop {height: 32px;background:rgb(16,147,215);color:#fff;}
+.pop .popTop em {float:right;font-style: normal;margin:5px 10px 0 0;cursor: pointer;display: inline;}
+.pop .popTop span {float:left;text-align: left;line-height: 32px;text-indent: 20px}
+.pop p {margin-top:20px;}
+.pop a {display: block;width:150px;height: 40px;line-height: 40px;background:rgb(16,147,215);color:#fff;margin:20px 0 0 118px;}
+/* 付费弹窗样式结束 */
+</style>
+
+</head>
+<body>
+<div class="c_bg" id="bkblack"></div>
+<div class="showwrap1125" style="display:none" id="ksingtan">
+    <div class="showbox1125">
+        <a class="down1125" href="http://down.kuwo.cn/kwsing/KwSing3204.exe" title="" target="_blank"></a>
+        <img src="http://image.kuwo.cn/www2014/ksingtan/down1125.gif" width="30" height="26" alt=""/>
+        <a class="close1125" href="javascript:void(0);" onclick="ksingtan(0);" title="" target="_blank"></a>
+    </div>
+</div>
+<!-- player flash start -->
+	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="1" height="1" id="dqPlayerSwf" style="position:absolute"> 
+		<param name="movie" value="/webmusic/webplay/dqplay.swf?1.swf" />
+		<param name="allowFullScreen" value="false" />
+		<param name="wmode" value="opaque" />
+		<param name="aloowScriptAccess" value="always" />
+		<param name="menu" value="false" />
+		<param name="allowScriptAccess" value="sameDomain" />
+		<param name="FlashVars" value="initplay=0&isloop=0&initjs=WebPlayer._playerInitOK&errmethod=WebPlayer._playerInitError&LoadLrcxDate=WebPlayer._setLrcxId&drawLrcx=WebPlayer._lrcxWordRoll&setLyricRoll=WebPlayer._lrcxRowRoll&endjs=WebPlayer._playEnd&commLogMethod=WebPlayer.sendPlayLog" />
+		<embed src="/webmusic/webplay/dqplay.swf?1.swf" name="dqPlayerSwf" quality="medium" width="1" height="1" wmode="opaque" FlashVars="initplay=0&isloop=0&initjs=WebPlayer._playerInitOK&errmethod=WebPlayer._playerInitError&LoadLrcxDate=WebPlayer._setLrcxId&drawLrcx=WebPlayer._lrcxWordRoll&setLyricRoll=WebPlayer._lrcxRowRoll&endjs=WebPlayer._playEnd&commLogMethod=WebPlayer.sendPlayLog"></embed>
+	</object>
+<!-- player flash end -->
+
+       <div id="outPlayDiv" name="outPlayDiv" style="position: absolute; left: 0; top: 0; margin: 0; width: 100%; height: 1000px; padding: 0px; margin: 0px; z-index: 9999; display: none;">
+	   <iframe id="outPlayFrame" name="outPlayFrame" style="width: 100%; height: 100%; display: none;" src="http://play.kuwo.cn/play/v/init.htm"></iframe>
+	   </div>
+	   <!-- 登陆弹窗start -->
+	   <div id="l_outer_div" class="login2012_load" style="z-index: 9999999; position:absolute;top:300px; margin-left: -160px; display: none;">
+	    	<div id="loginBox2012" class="l_loadtop"></div>
+	    	<div class="l_loadmiddle" style="background:#fff;height:120px">
+	    	<form id="loginBoxForm" action="http://kzone.kuwo.cn/mlog/st/LoginBox" method="post" target="hidden_login_ret">
+	    		<div id="logInfo" style="margin-left:15px;"><p>欢迎登陆：</p></div>
+	    		<div class="l_set"><span>账&nbsp;&nbsp;号：</span><div class="input"><em></em><input type="text" id="username" name="username"><em class="input_right"></em></div><a target="_blank" href="http://kzone.kuwo.cn/mlog/Reg">注册账号</a></div>
+	    		<div class="l_set"><span>密&nbsp;&nbsp;码：</span><div class="input"><em></em><input type="password" name="password" id="password"  onkeydown="if(event.keyCode==13) submitLoginForm(1)"><em class="input_right"></em></div><a target="_blank" href="http://i.kuwo.cn/US/FindPassword">忘记密码</a></div>
+	    		<a style="margin-left:0px;display:inline-block;float:left;top:10px;left:70px;" id="loginBtn" class="loginBtn" href="#" onclick="return submitLoginForm(1);" title="登录"><em></em>登&nbsp;录<em class="rig"></em></a>
+	    		<a style="margin-left:0px;display:inline-block;float:left;top:10px;left:80px;" id="qxBtn" class="loginBtn" href="#" onclick="return EmptyInput();"><em></em>重&nbsp;置<em class="rig"></em></a>
+	    		<a class="login_closed" href="javascript:OnOff('l_outer_div');"></a>
+	    	</form>
+	    	</div>
+	    	<div class="l_loadbottom"></div>
+	   </div>
+       <!-- 登陆弹窗end -->
+       <!-- 下载弹窗start -->
+       <div class="tips" id="down_tan" style="display:none;position:absolute;top:200px;z-index: 99;">
+			<p class="tips_logo"></p>
+			<p><a href="javascript:OnOff('down_tan');" class="close" title="关闭弹窗"></a></p>
+			<p class="wenzi">安装酷我音乐2013,海量高品质音乐<a href="http://down.koowo.com/mbox/nb/mbox411.exe" title="免费下载" target="_blank">免费</a>下载</p>
+			<p class="tips_btn">
+				<a href="http://down.koowo.com/mbox/nb/mbox411.exe" class="down" title="立即下载" target="_blank"></a>
+				<a href="javascript:installed();" class="ins" title="暂不安装"></a>
+			</p>
+	    </div>
+       <!-- 下载弹窗end -->
+       <div class="" style="width:1440px; height:900px; position: relative;margin:0 auto;">
+       <div style="position: absolute; top: 0px; left: 0px; width: 1440px; height: 900px;" id="delay_load_web_back"></div>
+<div class="f_out">
+	<div class="s_top" style="background:url('http://image.kuwo.cn/webplayer2013/img/head_bg.jpg') repeat scroll 0 0 transparent;">
+		<div class="s_topleft"><a href="http://www.kuwo.cn" alt="酷我音乐" title="访问酷我官方音乐网站" target="_blank"></a></div>
+            <a href="javascript:loadlink();" class="win_a" title="添加为桌面图标"> [+桌面图标] </a>
+		<div class="s_topright"><input id="search_key" type="text" value="搜索歌手、歌名、专辑、歌词"  onfocus="clearInput('search_key');" 
+					   	 	onblur="setInput('search_key');" onkeydown="if(event.keyCode==13) do_search(1)"/><a href="javascript:do_search(1);"  title="立刻搜索"></a></div>	
+		<div class="s_topschome">
+			<a class="his1" style="float:left;position:absolute;left:0px;width:18px;top:0px;_margin-top:5px" href="javascript:AddFavorite('http://player.kuwo.cn/webmusic/webplay/webplayer.jsp','酷我音乐播放器');" title="添加到收藏夹"></a>
+			<a class="" style="position:absolute;float:left;left:20px;top:5px;color:#fff;" href="javascript:AddFavorite('http://player.kuwo.cn/webmusic/webplay/webplayer.jsp','酷我音乐播放器');" title="添加到收藏夹">收藏播放器</a>
+			<a class="home1" target="_blank" title="回到酷我官网首页" href="http://www.kuwo.cn" style="float:left;position:absolute;left:95px;width:18px;top:0px;_margin-top:5px;"></a>
+			<a class="" style="position:absolute;float:left;top:5px;left:115px;color:#fff;" href="http://www.kuwo.cn" title="回到酷我官网首页" target="_blank">回到首页</a>
+       	</div>
+		<div class="s_topmiddle">
+			<div id="loginStat" class="s_nav1">
+				<span style="position:absolute;right:60px">[ <a href="javascript:OnOff('l_outer_div');">登录</a> ]</span>
+				<span style="position:absolute;right:15px">[ <a href="http://i.kuwo.cn/US/reg.htm?ret=webplay" target="_blank">注册</a> ]</span>
+				
+			</div>
+		</div>
+	</div>
+</div>
+ 
+<div class="f_conout">
+	<div class="f_content fl">
+       <!-- 导航栏 -->
+       <div id="s_nav" class="s_nav">
+                  <a id="nav_1" href="javascript:swapTab(1,true);" class="">歌词</a>
+                  <a id="nav_2" href="javascript:swapTab(2,true);" class="jiu_rightnow">每日推荐</a>
+                  <a id="nav_3" href="javascript:swapTab(3,true);" class="">电台</a>
+                  <a id="nav_4" href="javascript:swapTab(4,true);" class="">排行榜</a>
+                  <a id="nav_5" href="javascript:swapTab(5,true);" class="">歌手</a>
+                  <a id="nav_6" href="javascript:swapTab(6,true);" class="">分类</a>
+                  <a id="nav_7" href="javascript:swapTab(7,true);" class="">搜索</a>
+                  <a id="nav_8" href="javascript:swapTab(8,true);" class="">美女秀</a>
+                  <script>
+                  //var d = new Date().getDate();
+                 // if(d==29){
+                 // 	document.getElementById('nav_8').innerHTML='美女直播';
+                 // }else if(d==30){
+                 // 	document.getElementById('nav_8').innerHTML='美女秀';
+                 // }else if(d==31){
+                 // 	document.getElementById('nav_8').innerHTML='美女视频';
+                 // }else if(d==1){
+                 // 	document.getElementById('nav_8').innerHTML='美女主播';
+                 // }
+                  </script>
+                  <!--<a id="change" href="javascript:change(1);" class="">换肤</a>-->
+        </div>
+         <!-- 专题页显示区域 start -->
+	 <!--  <div id="itempage" name="itempage1" class="scroll" style="display: none;">
+		 <iframe id="itempage" name="itempage" frameborder="0" src="http://player.kuwo.cn/webmusic/webplayer/loading.html" scrolling="" style="width: 100%;border: 0px;_border:none;margin: 0px;padding: 0px;height: 100%;float:right;">   			 
+    	 </iframe> 
+	  </div> -->
+	  <!-- 专题页显示区域 end -->
+		<!-- 今日推荐 strat -->
+	  <div id="indexpage" class="scroll" style="display:block;">
+		<div class="jiu_top">	
+			<iframe id="iframepage" name="iframepage"  frameborder="0" src="http://topmusic.kuwo.cn/today_recommend/music/zhaoge_summer_hz_webplayer_jiaodian.htm?345345" scrolling="" style="width: 425px;border: 0px;margin: 0 0 0 0px;padding: 0px;height: 170px;float:left;">   		
+    		</iframe>  
+			<div style="float:right;width:210px;height:170px">
+				<a  href="javascript:downMusicBox()" target="_blank" title="立刻下载酷我音乐盒">
+				<img id="tj_pic" src="" onclick="" alt="酷我音乐盒下载" style="width:210px;height:170px"/>
+				</a>
+			</div>
+		</div>
+		<div class="jiu_playlist" style="height:270px;">
+			<div class="jiu_playleft">
+                        <div class="jiu_nav">
+                              <div class="jiu_navleft">
+                                    <span><a href="javascript:commonClick('1','17','新歌榜',25);" id="fxg" style="font-size:17px;color:#333">新歌榜</a></span>
+                              </div>
+                              <div class="jiu_navright">
+                                    <a href="javascript:playAllNewBang();" class="bluebtn" title="全部播放"><var class="shiting"></var><span>全部播放</span></a>
+                              </div>
+                        </div>
+						<div id="newsong" class="dclick">
+							<div style="position:absolute;position:absolute;left:35%;top:60%;" id="bangload"><img src="http://image.kuwo.cn/webplayer2013/img/loading.gif"><span style="position:relative;left:0px;top:-40px;">正在加载中......</span></div>
+                        </div>
+			</div>
+			<div class="jiu_playright">
+                        <div class="jiu_nav">
+                              <div class="jiu_navleft">
+                                    <span><a href="javascript:commonClick('1','16','热歌榜',26);" id="frg" style="font-size:17px;color:#333">热歌榜</a></span>
+                              </div>
+                              <div class="jiu_navright">
+                                    <a href="javascript:playAllHotBang();" class="bluebtn" title="全部播放"><var class="shiting"></var><span>全部播放</span></a>
+                              </div>
+                        </div>
+						<div id="hotsong" class="dclick">
+                        </div>
+			</div>
+		</div>
+		<div class="jiu_nav">
+			<div class="jiu_navleft">
+				<span><a href="javascript:swapTab(6,false);oneCategory(4,5);" id="ffl" style="font-size:17px;color:#333">热门分类</a></span>
+			</div>
+		</div>
+		<div class="songer_list" style="height:150px;">
+			<div id="hotCate" class="songer_listcon">
+			</div>
+		</div>
+        <div class="jiu_playlist" style="">
+			<div class="jiu_playleft">
+                        <div class="jiu_nav">
+                              <div class="jiu_navleft">
+                                    <span><a href="javascript:commonClick('1','22','欧美榜',22495);" id="fom" style="font-size:17px;color:#333">欧美榜</a></span>
+                              </div>
+                              <div class="jiu_navright">
+                                    <a href="javascript:playAllOumeiBang();" class="bluebtn" title="全部播放"><var class="shiting"></var><span>全部播放</span></a>
+                              </div>
+                        </div>
+                        <div id="oumeisong" class="dclick">
+                        </div>
+			</div>
+			<div class="jiu_playright">
+                        <div class="jiu_nav">
+                              <div class="jiu_navleft">
+                                    <span><a href="javascript:commonClick('1','23','日韩榜',22497);" id="frh" style="font-size:17px;color:#333">日韩榜</a></span>
+                              </div>
+                              <div class="jiu_navright">
+                                    <a href="javascript:playAllRihanBang();" class="bluebtn" title="全部播放"><var class="shiting"></var><span>全部播放</span></a>
+                              </div>
+                        </div>
+						<div id="rihansong" class="dclick">
+                        </div>
+			</div>
+		</div>
+		<p class="p20"></p>
+	  </div>
+	  <!-- 今日推荐 end -->
+	  <!-- 左侧索引start -->
+		<div id="left_index" class="jiu_paihang"  style="overflow-y:auto; display:none;width:125px;height:400px;">
+			<div id="artist_left" class="paihang_left" style="display:none;">
+			</div>
+			 
+			<div id="dt_left" class="paihang_left" style="display:none;">
+				<a id="recdt" href="javascript:swapDt(1);" class="">我最近在听</a>
+				<a id="alldt" href="javascript:swapDt(2);" class="paih_now">所有电台</a>
+			</div>
+			<div id="cate_left"  class="paihang_left" style="display:none;">
+			</div>
+			<div id="search_left" class="paihang_left" style="display:none;">
+						<div id="left_his">
+						<h2 style="font-size:15px  "Microsoft YaHei",宋体,sans-serif">历史搜索</h2>
+							<a href="javascript:c_search_link('凤凰传奇');">凤凰传奇</a>
+							<a href="javascript:c_search_link('我是歌手');">我是歌手</a>
+							<a href="javascript:c_search_link('周杰伦');">周杰伦</a>
+							<a href="javascript:c_search_link('中国最强音');">中国最强音</a>
+							<a href="javascript:c_search_link('羽泉');">羽泉</a>
+						</div>
+						<div id="left_hot">
+						<h2  style="font-size:15px "Microsoft YaHei",宋体,sans-serif">热门搜索</h2>
+							<a href="javascript:c_search_link('江南style');">江南style</a>
+							<a href="javascript:c_search_link('凤凰传奇');">凤凰传奇</a>
+							<a href="javascript:c_search_link('天机');">天机</a>
+							<a href="javascript:c_search_link('我的歌声里');">我的歌声里</a>
+							<a href="javascript:c_search_link('他是...jj林俊杰');">他..jj林俊杰</a>
+						</div>
+			</div>
+			<div id="phb_left" class="paihang_left" style="display:none;">
+			</div>
+			<div id="lrc_left" class="paihang_left lrc_left" style="display:none;">
+                        <div class="qu_listfa">
+                              <p class="int">歌手：</p>
+                              <div class="qu_list">
+                                    <a href="http://yinyue.kuwo.cn/yy/artist.htm" hidefocus target="_blank" class="pic100" title="访问酷我歌手网"><img src="http://image.kuwo.cn/webplayer2013/img/pic50.png" width="100" height="100" alt="酷我歌手"/></a>
+                              </div>
+                              <p class="qu_name"><a href="#"></a></p>
+                        </div>
+                        <div class="qu_listfa">
+                              <p class="int">相关专辑：</p>
+                              <div class="qu_list">
+                                    <a href="http://yinyue.kuwo.cn/yy/album.htm" hidefocus target="_blank" class="pic100"  title="访问酷我专辑网"><img src="http://image.kuwo.cn/webplayer2013/img/pic50.png" width="100" height="100"  alt="酷我专辑"/></a>
+                              </div>
+                              <p class="qu_name"><a href="#"></a></p>
+                        </div>
+			</div>
+			<p class="p20"></p>
+		</div>
+		<!-- 左侧索引end -->
+		<!-- 右侧内容区域start -->
+		<div id="right_con" class="jiu_paihang"  style="display:none;float: left;padding: 0 0 0 0px;width: 542px;height:400px;position:absolute;left:140px;top:50px">
+			<div id="quku_page_load"></div> 
+			<div id="tagChildContainer" class="paihang_right" style="display:none;height:100%">
+				<div id="cateArea" class="songer_list songer_list2" style="height:400px;overflow-y:auto;">
+					<div class="songer_listcon">
+						<div class="qu_listfa">
+							<div class="qu_list">
+								<a href="#" hidefocus class="qu_pho"><img src="http://image.kuwo.cn/webplayer2013/img/pic150.jpg" width="100" height="100" /><span class="qq_opa"></span><em></em></a>
+							</div>
+							<p class="qu_name"><a href="#">中文儿歌</a></p>
+							<p class="qu_dec">更新于<em>2012-10-30</em></p>
+						</div>
+					</div>
+				</div>
+				<p class="p20"></p>
+			</div>
+			<div id="phb_con" class="paihang_right songer_list2" style="display:none;height:100%">	
+				<div class="phbtit"><li><span>酷我新歌榜</span></li><li><!--<a href="javascript:alert(111);"><img src="http://image.kuwo.cn/webplayer2013/img/listen.png"/></a></li>--></div>
+			    <div class="jiu_nav" style="margin-top:5px">
+                              <div class="jiu_navleft">
+                                    <span style="font-size:12px;"></span>
+                              </div>
+                              <div class="jiu_navright">
+                                    <a href="javascript:playAllBangData();" class="bluebtn"><var class="shiting"></var><span>全部播放</span></a>
+                              </div>
+                </div>
+                <div class="con_right" style="height:305px;">
+	                <div class="jiu_playlist singer_m">
+						<div id="bangdiv" class="jiu_biglist" style="height:305px">
+						</div>
+					</div>
+               		<p class="p20"></p>
+                </div>
+			</div>
+			<div id="artist_con" class="paihang_right"  style="display:none;height:100%">
+                <p class="sub_nav"><a href="#">歌手</a> > <a href="#">华语女歌手</a> > SARA</p>
+				<div class="songer_list2">
+                   <div class="pro">
+                           <a href="#" class="modpho"  target="_blank" title="查看该歌手详情"><img src="http://image.kuwo.cn/webplayer2013/img/pic50.jpg" alt="酷我歌手" width="50" height="50" /></a>
+                           <div class="pro_m">
+                               <p><a href="#" target="_blank"  title="查看该歌手详情">SARA</a></p>
+                               <span id="songTotal">共100首</span>
+                           </div>
+                           <div class="jiu_navright" style="margin-top:30px">
+                               <a href="javascript:playAllartData();" class="bluebtn"><var class="shiting"></var><span>全部播放</span></a>
+                           </div>
+                  </div>
+                  <div class="con_right" style="height:280px;" style="position:relative;top:5px;">
+	                <div class="jiu_playlist singer_m">
+						<div id="bangDiv" class="jiu_biglist" style="height:280px">
+						</div>
+					</div>
+               		<p class="p20"></p>
+                  </div>
+                  <!-- 翻页 -->
+                  <div id="artmusicIndex" class="ge_page" style="display:none;">
+                      <a id="songcon_first" href="javascript:jumpToPage('first',0);">首页</a>
+                      <a id="songcon_last" href="javascript:jumpToPage('last',0);">上一页</a>
+                      <a id="songcon_1" class="ge_anwo" href="javascript:jumpToPage(0,0);">1</a>
+                      <a id="songcon_2" class="" href="javascript:jumpToPage(1,0);">2</a>
+                      <a id="songcon_3" class="" href="javascript:jumpToPage(2,0);">3</a>
+                      <a id="songcon_4" class="" href="javascript:jumpToPage(3,0);">4</a>
+                      <a id="songcon_5" class="" href="javascript:jumpToPage(4,0);">5</a>
+                      <a id="songcon_next" href="javascript:jumpToPage('next',0);">下一页</a>
+                      <a id="songcon_end" href="javascript:jumpToPage('end',0);">尾页</a>
+                  </div>
+                 </div>
+				<p class="p20"></p>
+			</div>
+			<div id="artist_list" class="paihang_right" style="display:none;height:100%;">
+				<div class="jiu_songnav">
+				        <a id="hotart" class="on" hidefocus="true" onclick="ziMu(this)" href="javascript:;">热门歌手</a>
+                        <a id="aart" href="javascript:;" onclick="ziMu(this)" hidefocus="true">A</a>
+						<a id="bart" href="javascript:;" onclick="ziMu(this)" hidefocus="true">B</a>
+						<a id="cart" href="javascript:;" onclick="ziMu(this)" hidefocus="true">C</a>
+						<a id="dart" href="javascript:;" onclick="ziMu(this)" hidefocus="true">D</a>
+						<a id="eart" href="javascript:;" onclick="ziMu(this)" hidefocus="true">E</a>
+						<a id="fart" href="javascript:;" onclick="ziMu(this)" hidefocus="true">F</a>
+						<a id="gart" href="javascript:;" onclick="ziMu(this)" hidefocus="true">G</a>
+						<a id="hart" href="javascript:;" onclick="ziMu(this)" hidefocus="true">H</a>
+						<a id="aart" href="javascript:;" onclick="ziMu(this)" hidefocus="true">I</a>
+						<a id="aart" href="javascript:;" onclick="ziMu(this)" hidefocus="true">J</a>
+						<a id="aart" href="javascript:;" onclick="ziMu(this)" hidefocus="true">K</a>
+						<a id="aart" href="javascript:;" onclick="ziMu(this)" hidefocus="true">L</a>
+						<a id="aart" href="javascript:;" onclick="ziMu(this)" hidefocus="true">M</a>
+						<a id="aart" href="javascript:;" onclick="ziMu(this)" hidefocus="true">N</a>
+						<a id="aart" href="javascript:;" onclick="ziMu(this)" hidefocus="true">O</a>
+						<a id="aart" href="javascript:;" onclick="ziMu(this)" hidefocus="true">P</a>
+						<a id="aart" href="javascript:;" onclick="ziMu(this)" hidefocus="true">Q</a>
+						<a id="aart" href="javascript:;" onclick="ziMu(this)" hidefocus="true">R</a>
+						<a id="aart" href="javascript:;" onclick="ziMu(this)" hidefocus="true">S</a>
+						<a id="aart" href="javascript:;" onclick="ziMu(this)" hidefocus="true">T</a>
+						<a id="aart" href="javascript:;" onclick="ziMu(this)" hidefocus="true">U</a>
+						<a id="aart" href="javascript:;" onclick="ziMu(this)" hidefocus="true">V</a>
+						<a id="aart" href="javascript:;" onclick="ziMu(this)" hidefocus="true">W</a>
+						<a id="aart" href="javascript:;" onclick="ziMu(this)" hidefocus="true">X</a>
+						<a id="aart" href="javascript:;" onclick="ziMu(this)" hidefocus="true">Y</a>
+						<a id="aart" href="javascript:;" onclick="ziMu(this)" hidefocus="true">Z</a>
+						<a id="aart" href="javascript:;" onclick="ziMu(this)" hidefocus="true">#</a>
+				</div>
+				<div id="songerArea" class="songer_list songer_list2" style="height:370px;overflow-y:auto;" >
+					<div class="songer_listcon">
+						<div class="qu_listfa">
+							<div class="qu_list">
+								<a href="#" hidefocus class="qu_pho"><img src="http://image.kuwo.cn/webplayer2013/img/pic150.jpg" width="100" height="100" /><span class="qq_opa"></span><em></em></a>
+							</div>
+							<p class="qu_name"><a href="#">中文儿歌</a></p>
+							<p class="qu_dec">更新于<em>2012-10-30</em></p>
+						</div>
+					</div>
+					<!-- 翻页 -->
+                  <div id="artlistIndex" class="ge_page" style="display:none;">
+                      <a id="songlist_first" href="javascript:jumpToPage('first',1);">首页</a>
+                      <a id="songlist_last" href="javascript:jumpToPage('last',1);">上一页</a>
+                      <a id="songlist_1" class="ge_anwo" href="javascript:jumpToPage(0,1);">1</a>
+                      <a id="songlist_2" class="" href="javascript:jumpToPage(1,1);">2</a>
+                      <a id="songlist_3" class="" href="javascript:jumpToPage(2,1);">3</a>
+                      <a id="songlist_4" class="" href="javascript:jumpToPage(3,1);">4</a>
+                      <a id="songlist_5" class="" href="javascript:jumpToPage(4,1);">5</a>
+                      <a id="songlist_next" href="javascript:jumpToPage('next',1);">下一页</a>
+                      <a id="songlist_end" href="javascript:jumpToPage('end',1);">尾页</a>
+                  </div>
+                  <p class="p20"></p>
+				</div>
+				<p class="p20"></p>
+			</div>
+			<div id="lrc_con" class="paihang_right" style="display:none;height:100%;">
+                  <p id="currPlName" class="lrc_tit" title="当前没有歌曲播放 ..." style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;width:500px">当前没有歌曲在播放  ... </p>
+                  <div id="lrcConId" class="jiu_biglist lrc" style="height:315px;width:455px;margin-left:40px">
+                 </div>
+                 <div class="fen_middle" style="position:absolute;right:20px;bottom:5px;">
+								<div data="{'text':'听到首首美妙的歌声，就无法淡定了……一定要转给大家一起听一听！(分享自@酷我音乐)。点击收听：','url':'http://player.kuwo.cn/webmusic/webplay/webplay.jsp'，
+									'comment':'时光荏苒，什么都会改变，却唯独音乐不会变，酷我音乐将最动听的音乐送给所有人(分享自@酷我音乐)。点击收听：',
+									'pic':'http://img2.kwcdn.kuwo.cn/star/albumcover/120/96/81/92178319.jpg'}" 
+									class="bdshare_t bds_tools get-codes-bdshare" id="bdshare" name="lrcshare" >
+							        <span style="padding-left:0px !important;background:none !important" class="bds_more">分享到：</span>
+							        <a class="bds_tsina" hidefocus="true" title="分享到新浪微博" href="#"></a>
+							        <a class="bds_qzone" hidefocus="true" title="分享到QQ空间" href="#"></a>
+							        <a class="bds_tqq" hidefocus="true" title="分享到腾讯微博" href="#"></a>
+							        <a class="bds_renren" hidefocus="true" title="分享到人人网" href="#"></a>
+							        <a class="bds_douban" hidefocus="true" title="分享到豆瓣网" href="#"></a>
+							        <a class="shareCount" hidefocus="true" href="#" title="累计分享67次">67</a>
+							  </div>
+                              
+                  </div>
+			</div>
+			<div id="gedan_con" class="paihang_right songer_list2" style="display:none;height:100%">	
+				<div class="jiu_nav">
+                              <div class="jiu_navleft">
+                                    <span style="font-size:12px;">热门分类</span>
+                              </div>
+                              <div class="jiu_navright">
+                                    <a href="javascript:playAllphpartData();" class="bluebtn"><var class="shiting"></var><span>全部播放</span></a>
+                              </div>
+                </div>
+                <div class="con_right" style="height:335px;">
+	                <div class="jiu_playlist singer_m">
+						<div class="jiu_biglist" style="height:340px">
+						</div>
+					</div>
+               		<p class="p20"></p>
+                </div>	
+                   <!-- 翻页 -->
+                  <div id="gedanmusicIndex" class="ge_page" style="display:none;">
+                      <a id="gedan_first" href="javascript:jumpToPage('first',3);">首页</a>
+                      <a id="gedan_last" href="javascript:jumpToPage('last',3);">上一页</a>
+                      <a id="gedan_1" class="ge_anwo" href="javascript:jumpToPage(0,3);">1</a>
+                      <a id="gedan_2" class="" href="javascript:jumpToPage(1,3);">2</a>
+                      <a id="gedan_3" class="" href="javascript:jumpToPage(2,3);">3</a>
+                      <a id="gedan_4" class="" href="javascript:jumpToPage(3,3);">4</a>
+                      <a id="gedan_5" class="" href="javascript:jumpToPage(4,3);">5</a>
+                      <a id="gedan_next" href="javascript:jumpToPage('next',3);">下一页</a>
+                      <a id="gedan_end" href="javascript:jumpToPage('end',3);">尾页</a>
+                  </div>			
+			</div>
+			<div id="album_con" class="paihang_right songer_list2" style="display:none;height:100%">	
+	      		<div class="jiu_nav">
+                              <div class="jiu_navleft">
+                                    <span style="font-size:12px;">热门分类</span>
+                              </div>
+                              <div class="jiu_navright">
+                                    <a href="javascript:playAllAlbumData();" class="bluebtn"><var class="shiting"></var><span>全部播放</span></a>
+                              </div>
+                </div>
+                <div class="con_right" style="height:370px;">
+	                <div class="jiu_playlist singer_m">
+						<div class="jiu_biglist" style="height:370px">
+						</div>
+					</div>
+               		<p class="p20"></p>
+                </div>	
+			</div>
+			<div id="search_con" class="paihang_right songer_list2" style="display:none;height:100%">	
+	           <div class="jiu_nav">
+                              <div class="jiu_navleft">
+                                    <span style="font-size:12px;"></span>
+                              </div>
+                              <div class="jiu_navright">
+                                    <a id="searchallplay" href="javascript:playAllScData();" class="bluebtn" style="display:none;"><var class="shiting"></var><span>全部播放</span></a>
+                              </div>
+                </div>
+                <div class="con_right" style="height:330px;">
+	                <div class="jiu_playlist singer_m">
+						<div class="jiu_biglist" style="height:340px">
+						</div>
+					</div>
+					<div class="noresult" style="display:none;">
+								<p class="l_p1" style="font-size:16px;">没有找到与“<em></em>”相关的结果，换个词再试试？</p>
+								<p class="l_p2">酷我音乐建议您：</p>
+								<p class="l_p3">请检查输入的关键词是否有误或过长。</p>
+								<p class="l_p3">在<a hidefocus="true" href="javascript:;" onclick="window.open('http://kuba.kuwo.cn/cafe/st/Ba?baId=1818');return false;" target="_blank">酷我答疑吧</a>反馈，我们将尽快补充数据。</p>
+								<p style="margin-top: 25px;color:#666666">您还可以查看搜索热词：</p>
+	                     <div id="searchhot" style="margin-top: 10px;font-size:12px;">
+	                     </div>                            
+					</div>
+                </div>
+	            <!-- 翻页 -->
+                <div id="searchIndex" class="ge_page" style="display:none;margin-top:5px">
+                      <a id="songsea_first" href="javascript:jumpToPage('first',2);">首页</a>
+                      <a id="songsea_last" href="javascript:jumpToPage('last',2);">上一页</a>
+                      <a id="songsea_1" class="ge_anwo" href="javascript:jumpToPage(0,2);">1</a>
+                      <a id="songsea_2" class="" href="javascript:jumpToPage(1,2);">2</a>
+                      <a id="songsea_3" class="" href="javascript:jumpToPage(2,2);">3</a>
+                      <a id="songsea_4" class="" href="javascript:jumpToPage(3,2);">4</a>
+                      <a id="songsea_5" class="" href="javascript:jumpToPage(4,2);">5</a>
+                      <a id="songsea_next" href="javascript:jumpToPage('next',2);">下一页</a>
+                      <a id="songsea_end" href="javascript:jumpToPage('end',2);">尾页</a>
+                </div>
+	            <p class="p20"></p>
+			</div>
+		</div>
+		<div id="search_con1" class="search_m" style="display:none;height:400px;">
+            	<img src="http://image.kuwo.cn/webplayer2013/img/search_logo.png" width="183" height="59"/>
+                  <div class="search"><input id="search_key2" type="text" value="搜索歌手、歌名、专辑、歌词" onfocus="clearInput('search_key2');" 
+					   	 	onblur="setInput('search_key2');" onkeydown="if(event.keyCode==13) do_search(2)"/><a href="javascript:do_search(2);"  title="立刻搜索"></a></div>              
+                  <div class="search_con">
+                  	<div id="index_hot" class="con_left">
+                        	<p class="c_t">今日热门</p>
+                              <ul class="c_list">
+                              	<li class="num">1</li>
+                                    <li class="song"><a href="#">凤凰传奇</a></li>
+                                    <li class="num_p"></li> 
+                              </ul>
+                              <ul class="c_list">
+                              	<li class="num">1</li>
+                                    <li class="song"><a href="#">我的歌声里</a></li>
+                                    <li class="num_p"></li> 
+                              </ul>
+                              <ul class="c_list">
+                              	<li class="num">1</li>
+                                    <li class="song"><a href="#">天机</a></li>
+                                    <li class="num_p"></li> 
+                              </ul>
+                              <ul class="c_list">
+                              	<li class="num">1</li>
+                                    <li class="song"><a href="#">他是...jj林俊杰</a></li>
+                                    <li class="num_p"></li> 
+                              </ul>
+                              <ul class="c_list">
+                              	<li class="num">1</li>
+                                    <li class="song"><a href="#">千里之外</a></li>
+                                    <li class="num_p"></li> 
+                              </ul>
+                        </div>
+                  	<div id="index_his" class="con_left" style="border-right:none;">
+                        	<p class="c_t">我在搜...</p>
+                              <ul class="c_list">
+                              	<li class="num"></li>
+                                    <li class="song"><a href="#"></a></li>
+                                    <li class="num_p"></li> 
+                              </ul>
+                              <ul class="c_list">
+                              	<li class="num"></li>
+                                    <li class="song"><a href="#">暂无搜索记录... </a></li>
+                                    <li class="num_p"></li> 
+                              </ul>
+                              <ul class="c_list">
+                              	<li class="num"></li>
+                                    <li class="song"><a href="#"></a></li>
+                                    <li class="num_p"></li> 
+                              </ul>
+                              <ul class="c_list">
+                              	<li class="num"></li>
+                                    <li class="song"><a href="#"></a></li>
+                                    <li class="num_p"></li> 
+                              </ul>
+                              <ul class="c_list">
+                              	<li class="num"></li>
+                                    <li class="song"><a href="#"></a></li>
+                                    <li class="num_p"></li> 
+                              </ul>
+                        </div>
+            </div>
+            <p class="p20"></p>
+   		 </div>
+    	<div id="xiuchang" class="paihang_right1" style="float: left; padding: 0px;height: 100%;display:none; ">
+				<div id="cateArea" class="songer_list songer_list2" style="height:400px;width:100%;;overflow-y:auto">
+				</div>
+				<p class="p20"></p>
+			</div>
+	<!-- 右侧内容区域   end -->
+	</div>
+	<!-- 播放列表 -->
+    <div class="rig_con fr"> 	 
+      	<p class="rig_nav"><a id="playTabId" href="javascript:swapLbTab(1);" class="rig_nav_def">播放列表</a><a id="scTabId" href="javascript:swapLbTab(2);" class="rig_nav_nodef">我的收藏</a></p>   
+            <div id="playlbId1" class="side_left" style="display:block;">
+                  <div style="height:328px;" id = "side_left1_con_pl"  class="side_left1_con" ><!--
+                       <div id="bflbtp" style="position:absolute;left:80px;top:100px;"><img src="http://image.kuwo.cn/webplayer2013/img/loading.gif" /></div>                        
+            	  --></div>
+               <p class="bot"><a href="javascript:delAllSong();" class="graybtn" title="清空本地播放列表"><var class="lj_icon_def"></var><span>删除全部</span></a></p>                
+		    </div>
+		    <div id="scCanId" class="side_left" style="display:none;">
+                  <div style="height:328px;" id = "side_left1_con_sc"  class="side_left1_con" >
+                  </div>
+               <p class="bot"><a href="javascript:delAllScSong();" class="graybtn" title="清空本地收藏列表"><var class="lj_icon_def"></var><span>删除全部</span></a></p> 
+		    </div>
+		<!-- <p id="ad_yx" style=""><a href="http://down.koowo.com/mbox/nb/mbox866.exe" target="_blank" title="立刻下载酷我音乐盒"><img src="http://image.kuwo.cn/webplayer2013/img/270.jpg" width="270" height="43"/></a></p> -->
+		<div id="delay_load_web_rd_2013" style="width:270px;height:43px">&nbsp;</div>
+      </div>
+      <!-- 歌曲列表/播放列表：分享 -->
+      	<div class="fentan" name="dqsharebox" style="display: none; width: 200px; position: absolute;left:200px;top:200px;" id="dqshare2">
+				<div class="fenleft"></div>
+				<div class="fenmiddle" style="width: 190px;">
+					<div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" style="padding-top: 2px" name="dqsharedate" data="{'url':'http://yourname.domain.com/shareB.html'}">
+						<a class="bds_tsina"></a> 
+						<a class="bds_qzone"></a> 
+						<a class="bds_tqq"></a> 
+						<a class="bds_renren"></a>
+						<a class="bds_douban"></a> 
+						<a class="shareCount"></a> 
+						<a href="javascript:void(0);" onclick="setDivVis('dqshare2','none');" class="closed" style="padding-top: 0px; margin-top: 3px; margin-left: 20px; padding-left: 0px; background: url('http://image.kuwo.cn/webm2012/icon3.png') no-repeat scroll 0 -51px transparent;"></a>
+					</div>
+				</div>
+			<div class="fenright"></div>
+			 <div class="fenpull"></div>
+		 </div>
+</div>
+<!-- 底部 -->
+<div class="f_out">
+	<div class="player" style="background:url('http://image.kuwo.cn/webplayer2013/img/bot.jpg') repeat scroll 0 0 transparent;">
+	    <div id="lb_tips" style="display:none;width: 270px; z-index: 10; position: absolute; top: -84px; right: 1px;height:40px;line-height:38px;background:#C3BEBB"><span style="position:relative;left:10px;font-size:14px;color:#fff;">该歌曲已经存在于列表中</span></div>
+		<div class="play_schedule  demo clearfix">
+			<div class="play_over" id="wp_bufBar">
+				<span class="schedule_over" id="wp_processBar"></span><a href="#" class="schedule_btn" id="wp_processBtn" style="float: left;"></a>
+			</div>
+		</div>
+		<div class="play_control  demo clearfix">
+			<div class="control_left">
+				<div class="control_img">
+					<a id="artist_href" href="javascript:swapTab(1,true);" title="去歌词页"><img src="http://image.kuwo.cn/webplayer2013/img/pic50.png" width="50" height="50" id="artist_Image" alt="酷我音乐"/> </a>
+				</div>
+				<div class="control_dec">
+					<p class="dec_time"><span id="wp_text" >听音乐 用酷我</span></p>
+					<p class="dec_name"><span><var id="wp_playTime">00:00</var><label>|</label><var id="wp_totalTime">00:00</var></span>
+						<em>
+							<a href="javascript:changeScstate();" id="scbtnid" class="play_shou" title="收藏"></a>
+							<a href="javascript:downMusicBox()" target="_blank" class="play_fen" title="下载"></a>
+							<a href="javascript:OnOff('fsId');" class="play_share" title="分享"></a>
+							<a href="javascript:void(0);;" class="play_kge" onclick="ksingtan(1)" style="position: relative;top: -6px;" title="K歌"></a>
+						</em>
+					</p>
+				</div>
+				</div>
+                  <div class="jiu_moshi control_right">
+                        <a href="javascript:OnOff('tanId');" id="shuxuId" title="选择播放模式"" class="xunhuan"><span></span><var id="mosiname">循环播放</var></a>                     
+                  </div>
+                  <div id="tanId" class="othetan" style="width:112px;bottom:50px;right:5px;display:none;">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <tr >
+                                    <td class="tan1"></td>
+                                    <td class="tan2"></td>
+                                    <td class="tan3"></td>
+                              </tr>
+                              <tr>
+                                    <td class="tan4"></td>
+                                    <td>
+                                          <div class="l_content">
+                                                <ul class="jiu_tanlist xunhuan">
+                                                      <li id="singleId"><a href="javascript:setPlayOrder('single');">单曲循环</a></li>
+                                                      <li id="orderId"><a href="javascript:setPlayOrder('order');">顺序播放</a></li>
+                                                      <li id="loopId" class="jiu_tannow"><a href="javascript:setPlayOrder('loop');">循环播放</a></li>
+                                                      <li id="randomId"><a href="javascript:setPlayOrder('random');" id="randomId">随机播放</a></li>
+                                                </ul>
+                                          </div>
+                                    </td>
+                                    <td class="tan5"></td>
+                              </tr>
+                              <tr>
+                                    <td class="tan6"></td>
+                                    <td class="tan7"></td>
+                                    <td class="tan8"></td>
+                              </tr>
+                        </table>
+                  </div>
+			<div class="control_middle">
+				<!-- 分享 -->
+					<div class="fentan" style="display:none;width:200px;left:15px;top:30px;z-index: 99;" id="fsId">
+						<div class="fenleft"></div>
+						<div class="fenmiddle" style="width: 190px;">
+							<div id="bdshare" name="boxshare" class="bdshare_t bds_tools get-codes-bdshare" style="padding-top: 2px"
+								data="{'text':'时光荏苒，什么都会改变，却唯独音乐不会变，酷我音乐将最动听的音乐送给所有人(分享自@酷我音乐)。点击收听：', 'url':'http://player.kuwo.cn/webmusic/webplay/webplay.jsp'}">
+									<a class="bds_tsina"></a> <a class="bds_qzone"></a> <a
+									class="bds_tqq"></a> <a class="bds_renren"></a> <a
+									class="bds_douban"></a> <a class="shareCount"></a> <a
+									href="javascript:void(0);" onclick="OnOff('fsId');"
+									class="closed"
+									style="padding-top: 0px; margin-top: 3px; margin-left: 20px; padding-left: 0px; background: url('http://image.kuwo.cn/webm2012/icon3.png') no-repeat scroll 0 -51px transparent;"></a>
+							</div>
+						</div>
+						<div class="fenright"></div>						
+					</div>
+				<!-- 播放控制 -->
+				<div class="control_song">
+					<a href="#" class="prev" id="wp_playPreBtn" title="上一首"><span></span></a>
+					<!--<a href="#" class="zan"><span></span></a>-->
+					<a href="#" class="play" id="wp_playBtn" title="暂停/播放"><span></span></a>
+					<a href="#" class="next" id="wp_playNextBtn" title="下一首"><span></span></a>
+				</div>
+				<!-- 音量控制 -->
+				<div class="control_sound">
+					<a href="#" class="sound_img" id="wp_mute" title="静音"></a>
+						<!--
+	                    <a href="#" class="sound_img_1"></a>
+	                    <a href="#" class="sound_img_2"></a>
+	                    <a href="#" class="sound_img_3"></a>
+						-->
+					<div class="about_sound"><p></p><span id="wp_volBar" class="wp_volBar" style="width:60px;"></span><a href="#" class="schedule_btn" id="wp_volBtn"  style="left:60px;"></a></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+<p><span id="scrollTopValue" style="display:none;"></span></p>
+<div id="sharespan" style="display: none;">
+	<div id="sharedqId" class="" style="display: block; width: 200px;right:45px;margin-top:0px;position:absolute">
+		<div class="fenleft"></div>
+		<div class="fenmiddle" style="width: 190px;">
+			<div id="bdshare"  name="dqshare" class="bdshare_t bds_tools get-codes-bdshare" style="padding-top: 2px"
+							data="{'text':'时光荏苒，什么都会改变，却唯独音乐不会变，酷我音乐将最动听的音乐送给所有人(分享自@酷我音乐)。点击收听：', 'url':'http://player.kuwo.cn/webmusic/webplay/webplay.jsp'}">
+							<a class="bds_tsina"></a> 
+							<a class="bds_qzone"></a> 
+							<a class="bds_tqq"></a> 
+							<a class="bds_renren"></a> 
+							<a class="bds_douban"></a> 
+							<a class="shareCount"></a> 
+							<a href="javascript:void(0);" onclick="OnOff('sharedqId');" class="closed"
+				style="padding-top: 0px; margin-top: 3px; margin-left: 20px; padding-left: 0px; background: url('http://image.kuwo.cn/webm2012/icon3.png') no-repeat scroll 0 -51px transparent;"></a>
+			</div>
+			</div>
+			<div class="fenright"></div>
+	</div>
+</div>
+<style>
+  	/* 悬浮二维码开始 */
+.qr_wrapper { position:fixed; left:20px; top:150px; width:130px; height:150px; overflow:hidden; -moz-user-select:none;background-color: white; }
+#qr_img{margin: 5px;}
+/* 悬浮二维码结束 */
+</style>
+<div class="qr_wrapper">
+	<img id="qr_img" width="120px" src="http://bd.kuwo.cn/mpage/pcbaiduhz/images/qr/h5hezuo_qr.png?t=441" alt="免费下载到手机" />
+	<span style="width: 100%;text-align: center;display: block;">免费下载到手机</span>
+</div>
+<!-- 付费提示wrap start -->
+<div id="fee_dialog_wrap" style="display: none;">
+	<!-- 弹出层开始 -->
+	<div id="pop"></div>
+	<div class="pop">
+		<div class="popTop">
+			<span>提示</span>
+			<em>x</em>
+		</div>
+		<p>该歌曲是付费歌曲，需使用酷我客户端付费播放。</p>
+		<a href="javascript:downMusicBox();">下载酷我音乐盒</a>
+	</div>
+	<!-- 弹出层结束 -->
+</div>
+<!-- 付费提示wrap end -->
+<script>
+	//下载图片更换统计
+	function Tongji(tf){
+		var img_t = new Image();
+		if(tf=="1"){
+			img_t.src = "http://webstat.kuwo.cn/logtj/comm/commjstj/webmusic/webplayer_log1.jpg";
+		}else if(tf=="2"){
+			img_t.src = "http://webstat.kuwo.cn/logtj/comm/commjstj/webmusic/webplayer_log2.jpg";
+		}else if(tf=="3"){
+			img_t.src = "http://webstat.kuwo.cn/logtj/comm/commjstj/webmusic/webplayer_log3.jpg";
+		}
+	}
+    var y = new Date().getFullYear();
+    var m = new Date().getMonth();
+    var d = new Date().getDate();
+    if(y>=2014){
+       if(m==0&&d==24){
+           $("#tj_pic").attr("src","http://image.kuwo.cn/webplayer2013/img/t1.jpg");
+           //$("#tj_pic").attr("onclick","Tongji(1);");
+       }else if(m==0&&d==25){
+           $("#tj_pic").attr("src","http://image.kuwo.cn/webplayer2013/img/t2.jpg");
+           //$("#tj_pic").attr("onclick","Tongji(2);");
+       }else if(m==0&&d==26){
+           $("#tj_pic").attr("src","http://image.kuwo.cn/webplayer2013/img/t3.jpg");
+           //$("#tj_pic").attr("onclick","Tongji(3);");
+       }else{
+           $("#tj_pic").attr("src","http://image.kuwo.cn/webplayer2013/img/tuijian.png");
+       }
+     }
+</script>
+ <script type="text/javascript">
+	initQuKuTree();
+	var playlist = [];
+	var t_playlist = [];
+	var collList = [];
+	var rids = [];
+ 	getWebBang();
+ 	if(window.location.href.indexOf('src=360')>-1){
+		$("#delay_load_web_back").hide();
+	}
+	if (url1.indexOf('so.com') > -1 || url.indexOf("from=360") > -1){
+		$("#delay_load_web_back").hide();
+	}
+	function scrollToMiddle() {
+		try{
+			var left = (document.documentElement.scrollWidth - document.documentElement.offsetWidth) / 2;
+			scrollTo(left,document.documentElement.scrollTop);
+		}catch(e){}
+	}
+	function initDom() {
+				//initQuKuTree();
+				var pLst = WebPlayer.getPlayList();//得到播放列表
+				//var url = window.location.href;
+				if(url.indexOf('src=colmusic') > -1){
+					swapLbTab(2);
+					playscSong(scfirstRid);
+				}else{
+					if (wbarr.length > 0) {
+						wb_play();
+						//swapTab(1,true);
+					} else {
+						if(pLst.length>0){
+							WebPlayer.playPlaylist();
+							//swapTab(1,true);
+						}else{ 
+							//getDtDataById('-6001','酷我热歌电台','http://img3.kwcdn.kuwo.cn:81/star/upload/9/9/1369293859209_.jpg','13394','1');
+							//swapTab(1,true);
+						}
+					}
+					if(url.indexOf('4076418') > -1||url.indexOf('4076419') > -1||url.indexOf('4076420') > -1||url.indexOf('4076421') > -1||url.indexOf('4076422') > -1||url.indexOf('4076423') > -1){
+						swapTab(1,true);
+					}
+				}
+				arrtoStr(pLst);//初始化播放列表
+				setTimeout(function(){
+					setHisInfo();//初始化搜索历史;
+				},1500);
+			}
+			var playerProperties = {
+				'playerSwfId' : 'dqPlayerSwf',
+				'volBarLength' : 50,
+				'processBarLength' : 945,
+				'bufferBarLength' : 956
+			};
+			var lrcxProperties = {
+				'width' : '455',
+				'height' : '315',
+				'src' : '/webmusic/webplay/LrcxPro_webplay.swf?1.swf',
+				'wmode' : 'opaque',
+				'FlashVars' : 'startheight=181&ztverticalGap=5&selectColor=#226699&bgColor=#F8FCFF&lrcxZzIdmethod=KW_DqPlayer._loadLrcxId'
+			};
+			var callbacks = {
+				'startPlay' : 'getArtAlbum',
+				'initOk' : 'initDom',
+				'diantaiEnd' : 'dtcallback',
+				'playLog' : 'http://webstat.kuwo.cn/logtj/comm/commjstj/webmusic/play_song_sum.jpg',
+				'diantaiLog' : 'http://webstat.kuwo.cn/logtj/comm/commjstj/webmusic/playdt_song_sum.jpg',
+				'playInitLog' : 'http://webstat.kuwo.cn/logtj/comm/webplayer/playinit.jpg',
+				'stopPlay' :  ''
+			};
+			WebPlayer.init(playerProperties, 'lrcConId', lrcxProperties,callbacks);//初始化播放条
+			getSearchHot(1);//初始化风云榜
+			if (getCookie("userid") != "") {
+				get_collect_list();
+			}else{
+				v_ref_colllist();
+			}
+			setuserInfo();
+			scrollToMiddle();
+			window.onload = scrollToMiddle;
+			window.onresize = function(){scrollToMiddle()};
+			//share统计
+			function c_init() {
+				var url = window.location.href;
+				var img5 = new Image();
+				if (url.indexOf('ttShare') > -1) {
+					img5.src = "http://webstat.kuwo.cn/logtj/comm/commjstj/webmusic/ttShare_webplay.jpg";
+				} else if (url.indexOf('weiboShare') > -1) {
+					img5.src = "http://webstat.kuwo.cn/logtj/comm/commjstj/webmusic/weiboShare_webplay.jpg";
+				} else if (url.indexOf('renrenShare') > -1) {
+					img5.src = "http://webstat.kuwo.cn/logtj/comm/commjstj/webmusic/renrenShare_webplay.jpg";
+				} else if (url.indexOf('qZoneShare') > -1) {
+					img5.src = "http://webstat.kuwo.cn/logtj/comm/commjstj/webmusic/qZoneShare_webplay.jpg";
+				} else if (url.indexOf('webdt') > -1) {
+					img5.src = "http://webstat.kuwo.cn/logtj/comm/commjstj/webmusic/webdt_webplay.jpg";
+				}
+				
+			}
+			c_init();
+			
+			function sendtime(url){
+				window.setTimeout(function(){
+					var playclick = new Image();
+					playclick.src=url;
+				},300);
+			}
+			
+			function downMusicBox(){
+				var url=window.location.href;
+				window.setTimeout(function(){
+					if(url.indexOf("from=baidu")>-1){
+						window.location.href='http://down.kuwo.cn/mbox/KwMusicSetup_bd.exe';
+					}else{
+						window.location.href='http://down.kuwo.cn/mbox/KwMusicSetup_bd.exe';
+					}
+				},100);
+				
+				if(url.indexOf("from=baidu")>-1){
+					sendtime('http://webstat.kuwo.cn/logtjsj/commsj/commjstj/bdhz/down_from_baidu_player_pv.jpg');
+				}
+			}
+			
+			
+			var tjurl=window.location.href;
+			if(tjurl.indexOf("from=baidu")>-1){
+				sendtime('http://webstat.kuwo.cn/logtjsj/commsj/commjstj/bdhz/from_baidu_player_pv.jpg');
+			}
+			
+			function showPayDialog(){
+				$("#fee_dialog_wrap").show();
+				$("#pop").show();
+				$(".pop").show();
+			}
+			
+			// 关闭弹出层
+			$(".pop em").click(function(){
+				$("#pop").hide();
+				$(".pop").hide();
+			});
+			var windowHeight = $(window).height();
+			var windowWidth = $(window).width();
+			$(".pop").css({"top":(windowHeight-$(".pop").height())/2+"px","left":(windowWidth-$(".pop").width())/2+"px"})
+		</script>
+		
+		<img src="http://webstat.kuwo.cn/npv/webmusic.jpg" style="display: none;" /> <img src="http://webstat.kuwo.cn/npv/all.jpg" style="display: none;" /> <img src="http://webstat.kuwo.cn/logtj/comm/commjstj/webmusic/web_player_ip.jpg" style="display: none;" />
+			
+		<!--需要开背景广告时 把这行打开-->
+		<script src="http://wa.kuwo.cn/lyrics/img/kwgg/kwgg_372.js"></script>
+		<script src="http://wa.kuwo.cn/lyrics/img/kwgg/kwgg_212.js"></script>
+		<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://": " http://");
+			document.write(unescape("%3Cscript src='"
+							+ _bdhmProtocol
+							+ "hm.baidu.com/h.js%3Fcdb524f42f0ce19b169a8071123a4797' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+		<!-- baidu share js begin-->
+		<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=676795" ></script>
+		<script type="text/javascript" id="bdshell_js"></script>
+		<script type="text/javascript">
+			var bds_config = {'snsKey':{'tsina':'2972927130','tqq':'0017fe1eb93944849958c05b5c680eef'}};
+			document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + new Date().getHours();
+		</script>
+		<!-- baidu share js end-->
+		<script src="http://js.kuwo.cn/stat/stat_1.js?091104.js" type="text/javascript"></script>
+		<script>
+            /*验证ip是否是国外四国的*/
+            function checkIp(){
+                 var apiURL ="http://www.kuwo.cn/yy/PlayCheckIp?callback=checkIpCallback";
+                    jQuery.getScript(apiURL);
+            }
+            function jsonError(){}
+            function checkIpCallback(jsondata){
+                if(jsondata != null && jsondata.indexOf("400")>0){
+                    window.location='http://www.kuwo.cn';
+                }
+            }  
+            checkIp();
+
+            //验证登录
+            setuserInfo();
+        </script>
+</body>
+</html>
